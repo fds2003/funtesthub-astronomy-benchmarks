@@ -1,0 +1,42 @@
+{
+  "name": "funtesthub-astronomy-benchmarks",
+  "version": "1.0.0",
+  "description": "Open-source verification benchmark of 200+ astronomical edge cases for traditional Chinese metaphysics (BaZi Four Pillars and Ziwei Dou Shu)",
+  "main": "dist/verify.js",
+  "types": "dist/types.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build": "tsc"
+  },
+  "keywords": [
+    "bazi",
+    "four-pillars",
+    "chinese-astrology",
+    "ziwei-dou-shu",
+    "astronomy",
+    "benchmarks",
+    "solar-terms",
+    "jieqi",
+    "lunar-calendar"
+  ],
+  "author": "fds2003 (FunTestHub Team)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fds2003/funtesthub-astronomy-benchmarks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fds2003/funtesthub-astronomy-benchmarks/issues"
+  },
+  "homepage": "https://funtesthub.com/en/about/",
+  "license": "MIT",
+  "dependencies": {
+    "lunar-javascript": "^1.7.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^5.8.0",
+    "vitest": "^4.1.0"
+  }
+}

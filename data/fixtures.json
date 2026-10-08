@@ -1,0 +1,5880 @@
+[
+  {
+    "id": "lichun-pre-1980",
+    "category": "solar-term-boundary",
+    "name": "Year 1980 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1980,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己未",
+      "monthPillar": "丁丑",
+      "dayPillar": "乙巳",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1980",
+    "category": "solar-term-boundary",
+    "name": "Year 1980 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1980.",
+    "input": {
+      "year": 1980,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚申",
+      "monthPillar": "戊寅",
+      "dayPillar": "己酉",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1981",
+    "category": "solar-term-boundary",
+    "name": "Year 1981 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1981,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚申",
+      "monthPillar": "己丑",
+      "dayPillar": "辛亥",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1981",
+    "category": "solar-term-boundary",
+    "name": "Year 1981 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1981.",
+    "input": {
+      "year": 1981,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛酉",
+      "monthPillar": "庚寅",
+      "dayPillar": "乙卯",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1982",
+    "category": "solar-term-boundary",
+    "name": "Year 1982 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1982,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛酉",
+      "monthPillar": "辛丑",
+      "dayPillar": "丙辰",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1982",
+    "category": "solar-term-boundary",
+    "name": "Year 1982 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1982.",
+    "input": {
+      "year": 1982,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬戌",
+      "monthPillar": "壬寅",
+      "dayPillar": "庚申",
+      "hourPillar": "壬午",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1983",
+    "category": "solar-term-boundary",
+    "name": "Year 1983 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1983,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬戌",
+      "monthPillar": "癸丑",
+      "dayPillar": "辛酉",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1983",
+    "category": "solar-term-boundary",
+    "name": "Year 1983 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1983.",
+    "input": {
+      "year": 1983,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸亥",
+      "monthPillar": "甲寅",
+      "dayPillar": "乙丑",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1984",
+    "category": "solar-term-boundary",
+    "name": "Year 1984 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1984,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸亥",
+      "monthPillar": "乙丑",
+      "dayPillar": "丙寅",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1984",
+    "category": "solar-term-boundary",
+    "name": "Year 1984 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1984.",
+    "input": {
+      "year": 1984,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲子",
+      "monthPillar": "丙寅",
+      "dayPillar": "庚午",
+      "hourPillar": "壬午",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1985",
+    "category": "solar-term-boundary",
+    "name": "Year 1985 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1985,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲子",
+      "monthPillar": "丁丑",
+      "dayPillar": "壬申",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1985",
+    "category": "solar-term-boundary",
+    "name": "Year 1985 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1985.",
+    "input": {
+      "year": 1985,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙丑",
+      "monthPillar": "戊寅",
+      "dayPillar": "丙子",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1986",
+    "category": "solar-term-boundary",
+    "name": "Year 1986 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1986,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙丑",
+      "monthPillar": "己丑",
+      "dayPillar": "丁丑",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1986",
+    "category": "solar-term-boundary",
+    "name": "Year 1986 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1986.",
+    "input": {
+      "year": 1986,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙寅",
+      "monthPillar": "庚寅",
+      "dayPillar": "辛巳",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1987",
+    "category": "solar-term-boundary",
+    "name": "Year 1987 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1987,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙寅",
+      "monthPillar": "辛丑",
+      "dayPillar": "壬午",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1987",
+    "category": "solar-term-boundary",
+    "name": "Year 1987 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1987.",
+    "input": {
+      "year": 1987,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁卯",
+      "monthPillar": "壬寅",
+      "dayPillar": "丙戌",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1988",
+    "category": "solar-term-boundary",
+    "name": "Year 1988 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1988,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁卯",
+      "monthPillar": "癸丑",
+      "dayPillar": "丁亥",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1988",
+    "category": "solar-term-boundary",
+    "name": "Year 1988 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1988.",
+    "input": {
+      "year": 1988,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊辰",
+      "monthPillar": "甲寅",
+      "dayPillar": "辛卯",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1989",
+    "category": "solar-term-boundary",
+    "name": "Year 1989 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1989,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊辰",
+      "monthPillar": "乙丑",
+      "dayPillar": "癸巳",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1989",
+    "category": "solar-term-boundary",
+    "name": "Year 1989 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1989.",
+    "input": {
+      "year": 1989,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己巳",
+      "monthPillar": "丙寅",
+      "dayPillar": "丁酉",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1990",
+    "category": "solar-term-boundary",
+    "name": "Year 1990 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1990,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己巳",
+      "monthPillar": "丁丑",
+      "dayPillar": "戊戌",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1990",
+    "category": "solar-term-boundary",
+    "name": "Year 1990 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1990.",
+    "input": {
+      "year": 1990,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚午",
+      "monthPillar": "戊寅",
+      "dayPillar": "壬寅",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1991",
+    "category": "solar-term-boundary",
+    "name": "Year 1991 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1991,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚午",
+      "monthPillar": "己丑",
+      "dayPillar": "癸卯",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1991",
+    "category": "solar-term-boundary",
+    "name": "Year 1991 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1991.",
+    "input": {
+      "year": 1991,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛未",
+      "monthPillar": "庚寅",
+      "dayPillar": "丁未",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1992",
+    "category": "solar-term-boundary",
+    "name": "Year 1992 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1992,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛未",
+      "monthPillar": "辛丑",
+      "dayPillar": "戊申",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1992",
+    "category": "solar-term-boundary",
+    "name": "Year 1992 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1992.",
+    "input": {
+      "year": 1992,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬申",
+      "monthPillar": "壬寅",
+      "dayPillar": "壬子",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1993",
+    "category": "solar-term-boundary",
+    "name": "Year 1993 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1993,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬申",
+      "monthPillar": "癸丑",
+      "dayPillar": "甲寅",
+      "hourPillar": "庚午",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1993",
+    "category": "solar-term-boundary",
+    "name": "Year 1993 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1993.",
+    "input": {
+      "year": 1993,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸酉",
+      "monthPillar": "甲寅",
+      "dayPillar": "戊午",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1994",
+    "category": "solar-term-boundary",
+    "name": "Year 1994 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1994,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸酉",
+      "monthPillar": "乙丑",
+      "dayPillar": "己未",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1994",
+    "category": "solar-term-boundary",
+    "name": "Year 1994 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1994.",
+    "input": {
+      "year": 1994,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲戌",
+      "monthPillar": "丙寅",
+      "dayPillar": "癸亥",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1995",
+    "category": "solar-term-boundary",
+    "name": "Year 1995 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1995,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲戌",
+      "monthPillar": "丁丑",
+      "dayPillar": "甲子",
+      "hourPillar": "庚午",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1995",
+    "category": "solar-term-boundary",
+    "name": "Year 1995 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1995.",
+    "input": {
+      "year": 1995,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙亥",
+      "monthPillar": "戊寅",
+      "dayPillar": "戊辰",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1996",
+    "category": "solar-term-boundary",
+    "name": "Year 1996 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1996,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙亥",
+      "monthPillar": "己丑",
+      "dayPillar": "己巳",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1996",
+    "category": "solar-term-boundary",
+    "name": "Year 1996 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1996.",
+    "input": {
+      "year": 1996,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙子",
+      "monthPillar": "庚寅",
+      "dayPillar": "癸酉",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1997",
+    "category": "solar-term-boundary",
+    "name": "Year 1997 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1997,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙子",
+      "monthPillar": "辛丑",
+      "dayPillar": "乙亥",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1997",
+    "category": "solar-term-boundary",
+    "name": "Year 1997 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1997.",
+    "input": {
+      "year": 1997,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁丑",
+      "monthPillar": "壬寅",
+      "dayPillar": "己卯",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1998",
+    "category": "solar-term-boundary",
+    "name": "Year 1998 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1998,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁丑",
+      "monthPillar": "癸丑",
+      "dayPillar": "庚辰",
+      "hourPillar": "壬午",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1998",
+    "category": "solar-term-boundary",
+    "name": "Year 1998 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1998.",
+    "input": {
+      "year": 1998,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊寅",
+      "monthPillar": "甲寅",
+      "dayPillar": "甲申",
+      "hourPillar": "庚午",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-1999",
+    "category": "solar-term-boundary",
+    "name": "Year 1999 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 1999,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊寅",
+      "monthPillar": "乙丑",
+      "dayPillar": "乙酉",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-1999",
+    "category": "solar-term-boundary",
+    "name": "Year 1999 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 1999.",
+    "input": {
+      "year": 1999,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己卯",
+      "monthPillar": "丙寅",
+      "dayPillar": "己丑",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2000",
+    "category": "solar-term-boundary",
+    "name": "Year 2000 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2000,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己卯",
+      "monthPillar": "丁丑",
+      "dayPillar": "庚寅",
+      "hourPillar": "壬午",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2000",
+    "category": "solar-term-boundary",
+    "name": "Year 2000 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2000.",
+    "input": {
+      "year": 2000,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚辰",
+      "monthPillar": "戊寅",
+      "dayPillar": "甲午",
+      "hourPillar": "庚午",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2001",
+    "category": "solar-term-boundary",
+    "name": "Year 2001 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2001,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚辰",
+      "monthPillar": "己丑",
+      "dayPillar": "丙申",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2001",
+    "category": "solar-term-boundary",
+    "name": "Year 2001 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2001.",
+    "input": {
+      "year": 2001,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛巳",
+      "monthPillar": "庚寅",
+      "dayPillar": "庚子",
+      "hourPillar": "壬午",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2002",
+    "category": "solar-term-boundary",
+    "name": "Year 2002 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2002,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛巳",
+      "monthPillar": "辛丑",
+      "dayPillar": "辛丑",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2002",
+    "category": "solar-term-boundary",
+    "name": "Year 2002 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2002.",
+    "input": {
+      "year": 2002,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬午",
+      "monthPillar": "壬寅",
+      "dayPillar": "乙巳",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2003",
+    "category": "solar-term-boundary",
+    "name": "Year 2003 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2003,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬午",
+      "monthPillar": "癸丑",
+      "dayPillar": "丙午",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2003",
+    "category": "solar-term-boundary",
+    "name": "Year 2003 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2003.",
+    "input": {
+      "year": 2003,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸未",
+      "monthPillar": "甲寅",
+      "dayPillar": "庚戌",
+      "hourPillar": "壬午",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2004",
+    "category": "solar-term-boundary",
+    "name": "Year 2004 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2004,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸未",
+      "monthPillar": "乙丑",
+      "dayPillar": "辛亥",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2004",
+    "category": "solar-term-boundary",
+    "name": "Year 2004 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2004.",
+    "input": {
+      "year": 2004,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲申",
+      "monthPillar": "丙寅",
+      "dayPillar": "乙卯",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2005",
+    "category": "solar-term-boundary",
+    "name": "Year 2005 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2005,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲申",
+      "monthPillar": "丁丑",
+      "dayPillar": "丁巳",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2005",
+    "category": "solar-term-boundary",
+    "name": "Year 2005 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2005.",
+    "input": {
+      "year": 2005,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙酉",
+      "monthPillar": "戊寅",
+      "dayPillar": "辛酉",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2006",
+    "category": "solar-term-boundary",
+    "name": "Year 2006 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2006,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙酉",
+      "monthPillar": "己丑",
+      "dayPillar": "壬戌",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2006",
+    "category": "solar-term-boundary",
+    "name": "Year 2006 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2006.",
+    "input": {
+      "year": 2006,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙戌",
+      "monthPillar": "庚寅",
+      "dayPillar": "丙寅",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2007",
+    "category": "solar-term-boundary",
+    "name": "Year 2007 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2007,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙戌",
+      "monthPillar": "辛丑",
+      "dayPillar": "丁卯",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2007",
+    "category": "solar-term-boundary",
+    "name": "Year 2007 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2007.",
+    "input": {
+      "year": 2007,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁亥",
+      "monthPillar": "壬寅",
+      "dayPillar": "辛未",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2008",
+    "category": "solar-term-boundary",
+    "name": "Year 2008 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2008,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁亥",
+      "monthPillar": "癸丑",
+      "dayPillar": "壬申",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2008",
+    "category": "solar-term-boundary",
+    "name": "Year 2008 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2008.",
+    "input": {
+      "year": 2008,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊子",
+      "monthPillar": "甲寅",
+      "dayPillar": "丙子",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2009",
+    "category": "solar-term-boundary",
+    "name": "Year 2009 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2009,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊子",
+      "monthPillar": "乙丑",
+      "dayPillar": "戊寅",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2009",
+    "category": "solar-term-boundary",
+    "name": "Year 2009 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2009.",
+    "input": {
+      "year": 2009,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己丑",
+      "monthPillar": "丙寅",
+      "dayPillar": "壬午",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2010",
+    "category": "solar-term-boundary",
+    "name": "Year 2010 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2010,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己丑",
+      "monthPillar": "丁丑",
+      "dayPillar": "癸未",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2010",
+    "category": "solar-term-boundary",
+    "name": "Year 2010 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2010.",
+    "input": {
+      "year": 2010,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚寅",
+      "monthPillar": "戊寅",
+      "dayPillar": "丁亥",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2011",
+    "category": "solar-term-boundary",
+    "name": "Year 2011 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2011,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚寅",
+      "monthPillar": "己丑",
+      "dayPillar": "戊子",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2011",
+    "category": "solar-term-boundary",
+    "name": "Year 2011 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2011.",
+    "input": {
+      "year": 2011,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛卯",
+      "monthPillar": "庚寅",
+      "dayPillar": "壬辰",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2012",
+    "category": "solar-term-boundary",
+    "name": "Year 2012 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2012,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛卯",
+      "monthPillar": "辛丑",
+      "dayPillar": "癸巳",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2012",
+    "category": "solar-term-boundary",
+    "name": "Year 2012 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2012.",
+    "input": {
+      "year": 2012,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬辰",
+      "monthPillar": "壬寅",
+      "dayPillar": "丁酉",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2013",
+    "category": "solar-term-boundary",
+    "name": "Year 2013 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2013,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬辰",
+      "monthPillar": "癸丑",
+      "dayPillar": "己亥",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2013",
+    "category": "solar-term-boundary",
+    "name": "Year 2013 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2013.",
+    "input": {
+      "year": 2013,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸巳",
+      "monthPillar": "甲寅",
+      "dayPillar": "癸卯",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2014",
+    "category": "solar-term-boundary",
+    "name": "Year 2014 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2014,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸巳",
+      "monthPillar": "乙丑",
+      "dayPillar": "甲辰",
+      "hourPillar": "庚午",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2014",
+    "category": "solar-term-boundary",
+    "name": "Year 2014 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2014.",
+    "input": {
+      "year": 2014,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲午",
+      "monthPillar": "丙寅",
+      "dayPillar": "戊申",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2015",
+    "category": "solar-term-boundary",
+    "name": "Year 2015 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2015,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲午",
+      "monthPillar": "丁丑",
+      "dayPillar": "己酉",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2015",
+    "category": "solar-term-boundary",
+    "name": "Year 2015 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2015.",
+    "input": {
+      "year": 2015,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙未",
+      "monthPillar": "戊寅",
+      "dayPillar": "癸丑",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2016",
+    "category": "solar-term-boundary",
+    "name": "Year 2016 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2016,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙未",
+      "monthPillar": "己丑",
+      "dayPillar": "甲寅",
+      "hourPillar": "庚午",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2016",
+    "category": "solar-term-boundary",
+    "name": "Year 2016 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2016.",
+    "input": {
+      "year": 2016,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙申",
+      "monthPillar": "庚寅",
+      "dayPillar": "戊午",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2017",
+    "category": "solar-term-boundary",
+    "name": "Year 2017 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2017,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙申",
+      "monthPillar": "辛丑",
+      "dayPillar": "庚申",
+      "hourPillar": "壬午",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2017",
+    "category": "solar-term-boundary",
+    "name": "Year 2017 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2017.",
+    "input": {
+      "year": 2017,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁酉",
+      "monthPillar": "壬寅",
+      "dayPillar": "甲子",
+      "hourPillar": "庚午",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2018",
+    "category": "solar-term-boundary",
+    "name": "Year 2018 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2018,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁酉",
+      "monthPillar": "癸丑",
+      "dayPillar": "乙丑",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2018",
+    "category": "solar-term-boundary",
+    "name": "Year 2018 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2018.",
+    "input": {
+      "year": 2018,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊戌",
+      "monthPillar": "甲寅",
+      "dayPillar": "己巳",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2019",
+    "category": "solar-term-boundary",
+    "name": "Year 2019 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2019,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊戌",
+      "monthPillar": "乙丑",
+      "dayPillar": "庚午",
+      "hourPillar": "壬午",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2019",
+    "category": "solar-term-boundary",
+    "name": "Year 2019 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2019.",
+    "input": {
+      "year": 2019,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己亥",
+      "monthPillar": "丙寅",
+      "dayPillar": "甲戌",
+      "hourPillar": "庚午",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2020",
+    "category": "solar-term-boundary",
+    "name": "Year 2020 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2020,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己亥",
+      "monthPillar": "丁丑",
+      "dayPillar": "乙亥",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2020",
+    "category": "solar-term-boundary",
+    "name": "Year 2020 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2020.",
+    "input": {
+      "year": 2020,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚子",
+      "monthPillar": "戊寅",
+      "dayPillar": "己卯",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2021",
+    "category": "solar-term-boundary",
+    "name": "Year 2021 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2021,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚子",
+      "monthPillar": "己丑",
+      "dayPillar": "辛巳",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2021",
+    "category": "solar-term-boundary",
+    "name": "Year 2021 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2021.",
+    "input": {
+      "year": 2021,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛丑",
+      "monthPillar": "庚寅",
+      "dayPillar": "乙酉",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2022",
+    "category": "solar-term-boundary",
+    "name": "Year 2022 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2022,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛丑",
+      "monthPillar": "辛丑",
+      "dayPillar": "丙戌",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2022",
+    "category": "solar-term-boundary",
+    "name": "Year 2022 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2022.",
+    "input": {
+      "year": 2022,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬寅",
+      "monthPillar": "壬寅",
+      "dayPillar": "庚寅",
+      "hourPillar": "壬午",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2023",
+    "category": "solar-term-boundary",
+    "name": "Year 2023 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2023,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬寅",
+      "monthPillar": "癸丑",
+      "dayPillar": "辛卯",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2023",
+    "category": "solar-term-boundary",
+    "name": "Year 2023 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2023.",
+    "input": {
+      "year": 2023,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸卯",
+      "monthPillar": "甲寅",
+      "dayPillar": "乙未",
+      "hourPillar": "壬午",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2024",
+    "category": "solar-term-boundary",
+    "name": "Year 2024 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2024,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸卯",
+      "monthPillar": "乙丑",
+      "dayPillar": "丙申",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2024",
+    "category": "solar-term-boundary",
+    "name": "Year 2024 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2024.",
+    "input": {
+      "year": 2024,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲辰",
+      "monthPillar": "丙寅",
+      "dayPillar": "庚子",
+      "hourPillar": "壬午",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2025",
+    "category": "solar-term-boundary",
+    "name": "Year 2025 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2025,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲辰",
+      "monthPillar": "丁丑",
+      "dayPillar": "壬寅",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2025",
+    "category": "solar-term-boundary",
+    "name": "Year 2025 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2025.",
+    "input": {
+      "year": 2025,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙巳",
+      "monthPillar": "戊寅",
+      "dayPillar": "丙午",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2026",
+    "category": "solar-term-boundary",
+    "name": "Year 2026 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2026,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙巳",
+      "monthPillar": "己丑",
+      "dayPillar": "丁未",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2026",
+    "category": "solar-term-boundary",
+    "name": "Year 2026 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2026.",
+    "input": {
+      "year": 2026,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙午",
+      "monthPillar": "庚寅",
+      "dayPillar": "辛亥",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2027",
+    "category": "solar-term-boundary",
+    "name": "Year 2027 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2027,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙午",
+      "monthPillar": "辛丑",
+      "dayPillar": "壬子",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2027",
+    "category": "solar-term-boundary",
+    "name": "Year 2027 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2027.",
+    "input": {
+      "year": 2027,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "壬寅",
+      "dayPillar": "丙辰",
+      "hourPillar": "甲午",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2028",
+    "category": "solar-term-boundary",
+    "name": "Year 2028 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2028,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "癸丑",
+      "dayPillar": "丁巳",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2028",
+    "category": "solar-term-boundary",
+    "name": "Year 2028 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2028.",
+    "input": {
+      "year": 2028,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊申",
+      "monthPillar": "甲寅",
+      "dayPillar": "辛酉",
+      "hourPillar": "甲午",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2029",
+    "category": "solar-term-boundary",
+    "name": "Year 2029 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2029,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊申",
+      "monthPillar": "乙丑",
+      "dayPillar": "癸亥",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2029",
+    "category": "solar-term-boundary",
+    "name": "Year 2029 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2029.",
+    "input": {
+      "year": 2029,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己酉",
+      "monthPillar": "丙寅",
+      "dayPillar": "丁卯",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2030",
+    "category": "solar-term-boundary",
+    "name": "Year 2030 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2030,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己酉",
+      "monthPillar": "丁丑",
+      "dayPillar": "戊辰",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2030",
+    "category": "solar-term-boundary",
+    "name": "Year 2030 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2030.",
+    "input": {
+      "year": 2030,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚戌",
+      "monthPillar": "戊寅",
+      "dayPillar": "壬申",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2031",
+    "category": "solar-term-boundary",
+    "name": "Year 2031 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2031,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚戌",
+      "monthPillar": "己丑",
+      "dayPillar": "癸酉",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2031",
+    "category": "solar-term-boundary",
+    "name": "Year 2031 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2031.",
+    "input": {
+      "year": 2031,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛亥",
+      "monthPillar": "庚寅",
+      "dayPillar": "丁丑",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2032",
+    "category": "solar-term-boundary",
+    "name": "Year 2032 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2032,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛亥",
+      "monthPillar": "辛丑",
+      "dayPillar": "戊寅",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2032",
+    "category": "solar-term-boundary",
+    "name": "Year 2032 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2032.",
+    "input": {
+      "year": 2032,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬子",
+      "monthPillar": "壬寅",
+      "dayPillar": "壬午",
+      "hourPillar": "丙午",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2033",
+    "category": "solar-term-boundary",
+    "name": "Year 2033 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2033,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬子",
+      "monthPillar": "癸丑",
+      "dayPillar": "甲申",
+      "hourPillar": "庚午",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2033",
+    "category": "solar-term-boundary",
+    "name": "Year 2033 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2033.",
+    "input": {
+      "year": 2033,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸丑",
+      "monthPillar": "甲寅",
+      "dayPillar": "戊子",
+      "hourPillar": "戊午",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "lichun-pre-2034",
+    "category": "solar-term-boundary",
+    "name": "Year 2034 Pre-Li Chun Transition Boundary",
+    "description": "Verifies that prior to astronomical Li Chun (Feb 2), the Year Pillar remains that of the prior solar year.",
+    "input": {
+      "year": 2034,
+      "month": 2,
+      "day": 2,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸丑",
+      "monthPillar": "乙丑",
+      "dayPillar": "己丑",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Di Tian Sui Jieqi Rule"
+  },
+  {
+    "id": "lichun-post-2034",
+    "category": "solar-term-boundary",
+    "name": "Year 2034 Post-Li Chun Transition Boundary",
+    "description": "Verifies that after astronomical Li Chun (Feb 6), the Year Pillar advances to year 2034.",
+    "input": {
+      "year": 2034,
+      "month": 2,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲寅",
+      "monthPillar": "丙寅",
+      "dayPillar": "癸巳",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Purple Mountain Observatory Ephemeris / Yuan Hai Zi Ping Chapter 1"
+  },
+  {
+    "id": "late-zi-sect2-1",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 2 Mainstream Rollover (1988-3-15)",
+    "description": "Under Sect 2 convention (midnight rollover), Day Pillar maintains the birth date while Hour Stem advances via Wu Shu Dun.",
+    "input": {
+      "year": 1988,
+      "month": 3,
+      "day": 15,
+      "hour": 23,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊辰",
+      "monthPillar": "乙卯",
+      "dayPillar": "己巳",
+      "hourPillar": "丙子",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "San Ming Tong Hui / Qian Li Ming Gao (Midnight Rollover Standard)"
+  },
+  {
+    "id": "late-zi-sect1-1",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 1 Early Rollover (1988-3-15)",
+    "description": "Under Sect 1 convention (23:00 rollover), Day Pillar immediately advances to tomorrow.",
+    "input": {
+      "year": 1988,
+      "month": 3,
+      "day": 15,
+      "hour": 23,
+      "minute": 30,
+      "sect": 1
+    },
+    "expected": {
+      "yearPillar": "戊辰",
+      "monthPillar": "乙卯",
+      "dayPillar": "庚午",
+      "hourPillar": "丙子",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Zi Ping Zhen Quan (23:00 Day Rollover Convention)"
+  },
+  {
+    "id": "early-zi-1",
+    "category": "late-zi-rollover",
+    "name": "Early Zi Hour (00:30) Unified Day Pillar (1988-3-16)",
+    "description": "Verifies that post-midnight (00:30) Early Zi hour reconciles identically across both Sect 1 and Sect 2.",
+    "input": {
+      "year": 1988,
+      "month": 3,
+      "day": 16,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊辰",
+      "monthPillar": "乙卯",
+      "dayPillar": "庚午",
+      "hourPillar": "丙子",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Classical Consensus: Early Zi (00:00-01:00)"
+  },
+  {
+    "id": "pre-zi-hai-hour-1",
+    "category": "late-zi-rollover",
+    "name": "Hai Hour Baseline (22:50) Prior to Late Zi Transition (1988-3-15)",
+    "description": "Verifies the Hour Pillar remains Hai (亥) prior to 23:00.",
+    "input": {
+      "year": 1988,
+      "month": 3,
+      "day": 15,
+      "hour": 22,
+      "minute": 50,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊辰",
+      "monthPillar": "乙卯",
+      "dayPillar": "己巳",
+      "hourPillar": "乙亥"
+    },
+    "sourceOrClassicalReference": "12 Double-Hours Astrological Division"
+  },
+  {
+    "id": "late-zi-sect2-2",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 2 Mainstream Rollover (1990-5-15)",
+    "description": "Under Sect 2 convention (midnight rollover), Day Pillar maintains the birth date while Hour Stem advances via Wu Shu Dun.",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 15,
+      "hour": 23,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚午",
+      "monthPillar": "辛巳",
+      "dayPillar": "庚辰",
+      "hourPillar": "戊子",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "San Ming Tong Hui / Qian Li Ming Gao (Midnight Rollover Standard)"
+  },
+  {
+    "id": "late-zi-sect1-2",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 1 Early Rollover (1990-5-15)",
+    "description": "Under Sect 1 convention (23:00 rollover), Day Pillar immediately advances to tomorrow.",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 15,
+      "hour": 23,
+      "minute": 30,
+      "sect": 1
+    },
+    "expected": {
+      "yearPillar": "庚午",
+      "monthPillar": "辛巳",
+      "dayPillar": "辛巳",
+      "hourPillar": "戊子",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Zi Ping Zhen Quan (23:00 Day Rollover Convention)"
+  },
+  {
+    "id": "early-zi-2",
+    "category": "late-zi-rollover",
+    "name": "Early Zi Hour (00:30) Unified Day Pillar (1990-5-16)",
+    "description": "Verifies that post-midnight (00:30) Early Zi hour reconciles identically across both Sect 1 and Sect 2.",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 16,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚午",
+      "monthPillar": "辛巳",
+      "dayPillar": "辛巳",
+      "hourPillar": "戊子",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Classical Consensus: Early Zi (00:00-01:00)"
+  },
+  {
+    "id": "pre-zi-hai-hour-2",
+    "category": "late-zi-rollover",
+    "name": "Hai Hour Baseline (22:50) Prior to Late Zi Transition (1990-5-15)",
+    "description": "Verifies the Hour Pillar remains Hai (亥) prior to 23:00.",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 15,
+      "hour": 22,
+      "minute": 50,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚午",
+      "monthPillar": "辛巳",
+      "dayPillar": "庚辰",
+      "hourPillar": "丁亥"
+    },
+    "sourceOrClassicalReference": "12 Double-Hours Astrological Division"
+  },
+  {
+    "id": "late-zi-sect2-3",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 2 Mainstream Rollover (1995-8-20)",
+    "description": "Under Sect 2 convention (midnight rollover), Day Pillar maintains the birth date while Hour Stem advances via Wu Shu Dun.",
+    "input": {
+      "year": 1995,
+      "month": 8,
+      "day": 20,
+      "hour": 23,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙亥",
+      "monthPillar": "甲申",
+      "dayPillar": "癸未",
+      "hourPillar": "甲子",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "San Ming Tong Hui / Qian Li Ming Gao (Midnight Rollover Standard)"
+  },
+  {
+    "id": "late-zi-sect1-3",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 1 Early Rollover (1995-8-20)",
+    "description": "Under Sect 1 convention (23:00 rollover), Day Pillar immediately advances to tomorrow.",
+    "input": {
+      "year": 1995,
+      "month": 8,
+      "day": 20,
+      "hour": 23,
+      "minute": 30,
+      "sect": 1
+    },
+    "expected": {
+      "yearPillar": "乙亥",
+      "monthPillar": "甲申",
+      "dayPillar": "甲申",
+      "hourPillar": "甲子",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Zi Ping Zhen Quan (23:00 Day Rollover Convention)"
+  },
+  {
+    "id": "early-zi-3",
+    "category": "late-zi-rollover",
+    "name": "Early Zi Hour (00:30) Unified Day Pillar (1995-8-21)",
+    "description": "Verifies that post-midnight (00:30) Early Zi hour reconciles identically across both Sect 1 and Sect 2.",
+    "input": {
+      "year": 1995,
+      "month": 8,
+      "day": 21,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙亥",
+      "monthPillar": "甲申",
+      "dayPillar": "甲申",
+      "hourPillar": "甲子",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Classical Consensus: Early Zi (00:00-01:00)"
+  },
+  {
+    "id": "pre-zi-hai-hour-3",
+    "category": "late-zi-rollover",
+    "name": "Hai Hour Baseline (22:50) Prior to Late Zi Transition (1995-8-20)",
+    "description": "Verifies the Hour Pillar remains Hai (亥) prior to 23:00.",
+    "input": {
+      "year": 1995,
+      "month": 8,
+      "day": 20,
+      "hour": 22,
+      "minute": 50,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙亥",
+      "monthPillar": "甲申",
+      "dayPillar": "癸未",
+      "hourPillar": "癸亥"
+    },
+    "sourceOrClassicalReference": "12 Double-Hours Astrological Division"
+  },
+  {
+    "id": "late-zi-sect2-4",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 2 Mainstream Rollover (2000-1-1)",
+    "description": "Under Sect 2 convention (midnight rollover), Day Pillar maintains the birth date while Hour Stem advances via Wu Shu Dun.",
+    "input": {
+      "year": 2000,
+      "month": 1,
+      "day": 1,
+      "hour": 23,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己卯",
+      "monthPillar": "丙子",
+      "dayPillar": "戊午",
+      "hourPillar": "甲子",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "San Ming Tong Hui / Qian Li Ming Gao (Midnight Rollover Standard)"
+  },
+  {
+    "id": "late-zi-sect1-4",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 1 Early Rollover (2000-1-1)",
+    "description": "Under Sect 1 convention (23:00 rollover), Day Pillar immediately advances to tomorrow.",
+    "input": {
+      "year": 2000,
+      "month": 1,
+      "day": 1,
+      "hour": 23,
+      "minute": 30,
+      "sect": 1
+    },
+    "expected": {
+      "yearPillar": "己卯",
+      "monthPillar": "丙子",
+      "dayPillar": "己未",
+      "hourPillar": "甲子",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Zi Ping Zhen Quan (23:00 Day Rollover Convention)"
+  },
+  {
+    "id": "early-zi-4",
+    "category": "late-zi-rollover",
+    "name": "Early Zi Hour (00:30) Unified Day Pillar (2000-1-2)",
+    "description": "Verifies that post-midnight (00:30) Early Zi hour reconciles identically across both Sect 1 and Sect 2.",
+    "input": {
+      "year": 2000,
+      "month": 1,
+      "day": 2,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己卯",
+      "monthPillar": "丙子",
+      "dayPillar": "己未",
+      "hourPillar": "甲子",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Classical Consensus: Early Zi (00:00-01:00)"
+  },
+  {
+    "id": "pre-zi-hai-hour-4",
+    "category": "late-zi-rollover",
+    "name": "Hai Hour Baseline (22:50) Prior to Late Zi Transition (2000-1-1)",
+    "description": "Verifies the Hour Pillar remains Hai (亥) prior to 23:00.",
+    "input": {
+      "year": 2000,
+      "month": 1,
+      "day": 1,
+      "hour": 22,
+      "minute": 50,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己卯",
+      "monthPillar": "丙子",
+      "dayPillar": "戊午",
+      "hourPillar": "癸亥"
+    },
+    "sourceOrClassicalReference": "12 Double-Hours Astrological Division"
+  },
+  {
+    "id": "late-zi-sect2-5",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 2 Mainstream Rollover (2008-8-8)",
+    "description": "Under Sect 2 convention (midnight rollover), Day Pillar maintains the birth date while Hour Stem advances via Wu Shu Dun.",
+    "input": {
+      "year": 2008,
+      "month": 8,
+      "day": 8,
+      "hour": 23,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊子",
+      "monthPillar": "庚申",
+      "dayPillar": "庚辰",
+      "hourPillar": "戊子",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "San Ming Tong Hui / Qian Li Ming Gao (Midnight Rollover Standard)"
+  },
+  {
+    "id": "late-zi-sect1-5",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 1 Early Rollover (2008-8-8)",
+    "description": "Under Sect 1 convention (23:00 rollover), Day Pillar immediately advances to tomorrow.",
+    "input": {
+      "year": 2008,
+      "month": 8,
+      "day": 8,
+      "hour": 23,
+      "minute": 30,
+      "sect": 1
+    },
+    "expected": {
+      "yearPillar": "戊子",
+      "monthPillar": "庚申",
+      "dayPillar": "辛巳",
+      "hourPillar": "戊子",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Zi Ping Zhen Quan (23:00 Day Rollover Convention)"
+  },
+  {
+    "id": "early-zi-5",
+    "category": "late-zi-rollover",
+    "name": "Early Zi Hour (00:30) Unified Day Pillar (2008-8-9)",
+    "description": "Verifies that post-midnight (00:30) Early Zi hour reconciles identically across both Sect 1 and Sect 2.",
+    "input": {
+      "year": 2008,
+      "month": 8,
+      "day": 9,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊子",
+      "monthPillar": "庚申",
+      "dayPillar": "辛巳",
+      "hourPillar": "戊子",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Classical Consensus: Early Zi (00:00-01:00)"
+  },
+  {
+    "id": "pre-zi-hai-hour-5",
+    "category": "late-zi-rollover",
+    "name": "Hai Hour Baseline (22:50) Prior to Late Zi Transition (2008-8-8)",
+    "description": "Verifies the Hour Pillar remains Hai (亥) prior to 23:00.",
+    "input": {
+      "year": 2008,
+      "month": 8,
+      "day": 8,
+      "hour": 22,
+      "minute": 50,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊子",
+      "monthPillar": "庚申",
+      "dayPillar": "庚辰",
+      "hourPillar": "丁亥"
+    },
+    "sourceOrClassicalReference": "12 Double-Hours Astrological Division"
+  },
+  {
+    "id": "late-zi-sect2-6",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 2 Mainstream Rollover (2015-11-11)",
+    "description": "Under Sect 2 convention (midnight rollover), Day Pillar maintains the birth date while Hour Stem advances via Wu Shu Dun.",
+    "input": {
+      "year": 2015,
+      "month": 11,
+      "day": 11,
+      "hour": 23,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙未",
+      "monthPillar": "丁亥",
+      "dayPillar": "辛卯",
+      "hourPillar": "庚子",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "San Ming Tong Hui / Qian Li Ming Gao (Midnight Rollover Standard)"
+  },
+  {
+    "id": "late-zi-sect1-6",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 1 Early Rollover (2015-11-11)",
+    "description": "Under Sect 1 convention (23:00 rollover), Day Pillar immediately advances to tomorrow.",
+    "input": {
+      "year": 2015,
+      "month": 11,
+      "day": 11,
+      "hour": 23,
+      "minute": 30,
+      "sect": 1
+    },
+    "expected": {
+      "yearPillar": "乙未",
+      "monthPillar": "丁亥",
+      "dayPillar": "壬辰",
+      "hourPillar": "庚子",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Zi Ping Zhen Quan (23:00 Day Rollover Convention)"
+  },
+  {
+    "id": "early-zi-6",
+    "category": "late-zi-rollover",
+    "name": "Early Zi Hour (00:30) Unified Day Pillar (2015-11-12)",
+    "description": "Verifies that post-midnight (00:30) Early Zi hour reconciles identically across both Sect 1 and Sect 2.",
+    "input": {
+      "year": 2015,
+      "month": 11,
+      "day": 12,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙未",
+      "monthPillar": "丁亥",
+      "dayPillar": "壬辰",
+      "hourPillar": "庚子",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Classical Consensus: Early Zi (00:00-01:00)"
+  },
+  {
+    "id": "pre-zi-hai-hour-6",
+    "category": "late-zi-rollover",
+    "name": "Hai Hour Baseline (22:50) Prior to Late Zi Transition (2015-11-11)",
+    "description": "Verifies the Hour Pillar remains Hai (亥) prior to 23:00.",
+    "input": {
+      "year": 2015,
+      "month": 11,
+      "day": 11,
+      "hour": 22,
+      "minute": 50,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙未",
+      "monthPillar": "丁亥",
+      "dayPillar": "辛卯",
+      "hourPillar": "己亥"
+    },
+    "sourceOrClassicalReference": "12 Double-Hours Astrological Division"
+  },
+  {
+    "id": "late-zi-sect2-7",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 2 Mainstream Rollover (2020-2-2)",
+    "description": "Under Sect 2 convention (midnight rollover), Day Pillar maintains the birth date while Hour Stem advances via Wu Shu Dun.",
+    "input": {
+      "year": 2020,
+      "month": 2,
+      "day": 2,
+      "hour": 23,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己亥",
+      "monthPillar": "丁丑",
+      "dayPillar": "乙亥",
+      "hourPillar": "戊子",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "San Ming Tong Hui / Qian Li Ming Gao (Midnight Rollover Standard)"
+  },
+  {
+    "id": "late-zi-sect1-7",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 1 Early Rollover (2020-2-2)",
+    "description": "Under Sect 1 convention (23:00 rollover), Day Pillar immediately advances to tomorrow.",
+    "input": {
+      "year": 2020,
+      "month": 2,
+      "day": 2,
+      "hour": 23,
+      "minute": 30,
+      "sect": 1
+    },
+    "expected": {
+      "yearPillar": "己亥",
+      "monthPillar": "丁丑",
+      "dayPillar": "丙子",
+      "hourPillar": "戊子",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Zi Ping Zhen Quan (23:00 Day Rollover Convention)"
+  },
+  {
+    "id": "early-zi-7",
+    "category": "late-zi-rollover",
+    "name": "Early Zi Hour (00:30) Unified Day Pillar (2020-2-3)",
+    "description": "Verifies that post-midnight (00:30) Early Zi hour reconciles identically across both Sect 1 and Sect 2.",
+    "input": {
+      "year": 2020,
+      "month": 2,
+      "day": 3,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己亥",
+      "monthPillar": "丁丑",
+      "dayPillar": "丙子",
+      "hourPillar": "戊子",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Classical Consensus: Early Zi (00:00-01:00)"
+  },
+  {
+    "id": "pre-zi-hai-hour-7",
+    "category": "late-zi-rollover",
+    "name": "Hai Hour Baseline (22:50) Prior to Late Zi Transition (2020-2-2)",
+    "description": "Verifies the Hour Pillar remains Hai (亥) prior to 23:00.",
+    "input": {
+      "year": 2020,
+      "month": 2,
+      "day": 2,
+      "hour": 22,
+      "minute": 50,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己亥",
+      "monthPillar": "丁丑",
+      "dayPillar": "乙亥",
+      "hourPillar": "丁亥"
+    },
+    "sourceOrClassicalReference": "12 Double-Hours Astrological Division"
+  },
+  {
+    "id": "late-zi-sect2-8",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 2 Mainstream Rollover (2024-6-18)",
+    "description": "Under Sect 2 convention (midnight rollover), Day Pillar maintains the birth date while Hour Stem advances via Wu Shu Dun.",
+    "input": {
+      "year": 2024,
+      "month": 6,
+      "day": 18,
+      "hour": 23,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲辰",
+      "monthPillar": "庚午",
+      "dayPillar": "癸丑",
+      "hourPillar": "甲子",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "San Ming Tong Hui / Qian Li Ming Gao (Midnight Rollover Standard)"
+  },
+  {
+    "id": "late-zi-sect1-8",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 1 Early Rollover (2024-6-18)",
+    "description": "Under Sect 1 convention (23:00 rollover), Day Pillar immediately advances to tomorrow.",
+    "input": {
+      "year": 2024,
+      "month": 6,
+      "day": 18,
+      "hour": 23,
+      "minute": 30,
+      "sect": 1
+    },
+    "expected": {
+      "yearPillar": "甲辰",
+      "monthPillar": "庚午",
+      "dayPillar": "甲寅",
+      "hourPillar": "甲子",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Zi Ping Zhen Quan (23:00 Day Rollover Convention)"
+  },
+  {
+    "id": "early-zi-8",
+    "category": "late-zi-rollover",
+    "name": "Early Zi Hour (00:30) Unified Day Pillar (2024-6-19)",
+    "description": "Verifies that post-midnight (00:30) Early Zi hour reconciles identically across both Sect 1 and Sect 2.",
+    "input": {
+      "year": 2024,
+      "month": 6,
+      "day": 19,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲辰",
+      "monthPillar": "庚午",
+      "dayPillar": "甲寅",
+      "hourPillar": "甲子",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Classical Consensus: Early Zi (00:00-01:00)"
+  },
+  {
+    "id": "pre-zi-hai-hour-8",
+    "category": "late-zi-rollover",
+    "name": "Hai Hour Baseline (22:50) Prior to Late Zi Transition (2024-6-18)",
+    "description": "Verifies the Hour Pillar remains Hai (亥) prior to 23:00.",
+    "input": {
+      "year": 2024,
+      "month": 6,
+      "day": 18,
+      "hour": 22,
+      "minute": 50,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲辰",
+      "monthPillar": "庚午",
+      "dayPillar": "癸丑",
+      "hourPillar": "癸亥"
+    },
+    "sourceOrClassicalReference": "12 Double-Hours Astrological Division"
+  },
+  {
+    "id": "late-zi-sect2-9",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 2 Mainstream Rollover (2026-10-1)",
+    "description": "Under Sect 2 convention (midnight rollover), Day Pillar maintains the birth date while Hour Stem advances via Wu Shu Dun.",
+    "input": {
+      "year": 2026,
+      "month": 10,
+      "day": 1,
+      "hour": 23,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙午",
+      "monthPillar": "丁酉",
+      "dayPillar": "戊申",
+      "hourPillar": "甲子",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "San Ming Tong Hui / Qian Li Ming Gao (Midnight Rollover Standard)"
+  },
+  {
+    "id": "late-zi-sect1-9",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 1 Early Rollover (2026-10-1)",
+    "description": "Under Sect 1 convention (23:00 rollover), Day Pillar immediately advances to tomorrow.",
+    "input": {
+      "year": 2026,
+      "month": 10,
+      "day": 1,
+      "hour": 23,
+      "minute": 30,
+      "sect": 1
+    },
+    "expected": {
+      "yearPillar": "丙午",
+      "monthPillar": "丁酉",
+      "dayPillar": "己酉",
+      "hourPillar": "甲子",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Zi Ping Zhen Quan (23:00 Day Rollover Convention)"
+  },
+  {
+    "id": "early-zi-9",
+    "category": "late-zi-rollover",
+    "name": "Early Zi Hour (00:30) Unified Day Pillar (2026-10-2)",
+    "description": "Verifies that post-midnight (00:30) Early Zi hour reconciles identically across both Sect 1 and Sect 2.",
+    "input": {
+      "year": 2026,
+      "month": 10,
+      "day": 2,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙午",
+      "monthPillar": "丁酉",
+      "dayPillar": "己酉",
+      "hourPillar": "甲子",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Classical Consensus: Early Zi (00:00-01:00)"
+  },
+  {
+    "id": "pre-zi-hai-hour-9",
+    "category": "late-zi-rollover",
+    "name": "Hai Hour Baseline (22:50) Prior to Late Zi Transition (2026-10-1)",
+    "description": "Verifies the Hour Pillar remains Hai (亥) prior to 23:00.",
+    "input": {
+      "year": 2026,
+      "month": 10,
+      "day": 1,
+      "hour": 22,
+      "minute": 50,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙午",
+      "monthPillar": "丁酉",
+      "dayPillar": "戊申",
+      "hourPillar": "癸亥"
+    },
+    "sourceOrClassicalReference": "12 Double-Hours Astrological Division"
+  },
+  {
+    "id": "late-zi-sect2-10",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 2 Mainstream Rollover (2027-7-7)",
+    "description": "Under Sect 2 convention (midnight rollover), Day Pillar maintains the birth date while Hour Stem advances via Wu Shu Dun.",
+    "input": {
+      "year": 2027,
+      "month": 7,
+      "day": 7,
+      "hour": 23,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "丁未",
+      "dayPillar": "丁亥",
+      "hourPillar": "壬子",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "San Ming Tong Hui / Qian Li Ming Gao (Midnight Rollover Standard)"
+  },
+  {
+    "id": "late-zi-sect1-10",
+    "category": "late-zi-rollover",
+    "name": "Late Zi Hour (23:30) Sect 1 Early Rollover (2027-7-7)",
+    "description": "Under Sect 1 convention (23:00 rollover), Day Pillar immediately advances to tomorrow.",
+    "input": {
+      "year": 2027,
+      "month": 7,
+      "day": 7,
+      "hour": 23,
+      "minute": 30,
+      "sect": 1
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "丁未",
+      "dayPillar": "戊子",
+      "hourPillar": "壬子",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Zi Ping Zhen Quan (23:00 Day Rollover Convention)"
+  },
+  {
+    "id": "early-zi-10",
+    "category": "late-zi-rollover",
+    "name": "Early Zi Hour (00:30) Unified Day Pillar (2027-7-8)",
+    "description": "Verifies that post-midnight (00:30) Early Zi hour reconciles identically across both Sect 1 and Sect 2.",
+    "input": {
+      "year": 2027,
+      "month": 7,
+      "day": 8,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "丁未",
+      "dayPillar": "戊子",
+      "hourPillar": "壬子",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Classical Consensus: Early Zi (00:00-01:00)"
+  },
+  {
+    "id": "pre-zi-hai-hour-10",
+    "category": "late-zi-rollover",
+    "name": "Hai Hour Baseline (22:50) Prior to Late Zi Transition (2027-7-7)",
+    "description": "Verifies the Hour Pillar remains Hai (亥) prior to 23:00.",
+    "input": {
+      "year": 2027,
+      "month": 7,
+      "day": 7,
+      "hour": 22,
+      "minute": 50,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "丁未",
+      "dayPillar": "丁亥",
+      "hourPillar": "辛亥"
+    },
+    "sourceOrClassicalReference": "12 Double-Hours Astrological Division"
+  },
+  {
+    "id": "leap-month-1984",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 10 Yue) Solar-Term Alignment for 1984",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 1984,
+      "month": 11,
+      "day": 20,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲子",
+      "monthPillar": "乙亥",
+      "dayPillar": "戊午",
+      "hourPillar": "丁巳",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-1984",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 1984",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 1984,
+      "month": 11,
+      "day": 25,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲子",
+      "monthPillar": "乙亥",
+      "dayPillar": "癸亥",
+      "hourPillar": "辛酉",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-1987",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 6 Yue) Solar-Term Alignment for 1987",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 1987,
+      "month": 7,
+      "day": 25,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁卯",
+      "monthPillar": "丁未",
+      "dayPillar": "乙亥",
+      "hourPillar": "辛巳",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-1987",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 1987",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 1987,
+      "month": 7,
+      "day": 30,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁卯",
+      "monthPillar": "丁未",
+      "dayPillar": "庚辰",
+      "hourPillar": "乙酉",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-1990",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 5 Yue) Solar-Term Alignment for 1990",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 1990,
+      "month": 6,
+      "day": 23,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚午",
+      "monthPillar": "壬午",
+      "dayPillar": "己未",
+      "hourPillar": "己巳",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-1990",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 1990",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 1990,
+      "month": 6,
+      "day": 28,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚午",
+      "monthPillar": "壬午",
+      "dayPillar": "甲子",
+      "hourPillar": "癸酉",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-1993",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 3 Yue) Solar-Term Alignment for 1993",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 1993,
+      "month": 4,
+      "day": 20,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸酉",
+      "monthPillar": "丙辰",
+      "dayPillar": "辛未",
+      "hourPillar": "癸巳",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-1993",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 1993",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 1993,
+      "month": 4,
+      "day": 25,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸酉",
+      "monthPillar": "丙辰",
+      "dayPillar": "丙子",
+      "hourPillar": "丁酉",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-1995",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 8 Yue) Solar-Term Alignment for 1995",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 1995,
+      "month": 9,
+      "day": 25,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙亥",
+      "monthPillar": "乙酉",
+      "dayPillar": "己未",
+      "hourPillar": "己巳",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-1995",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 1995",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 1995,
+      "month": 9,
+      "day": 30,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙亥",
+      "monthPillar": "乙酉",
+      "dayPillar": "甲子",
+      "hourPillar": "癸酉",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-1998",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 5 Yue) Solar-Term Alignment for 1998",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 1998,
+      "month": 6,
+      "day": 24,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊寅",
+      "monthPillar": "戊午",
+      "dayPillar": "壬寅",
+      "hourPillar": "乙巳",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-1998",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 1998",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 1998,
+      "month": 6,
+      "day": 29,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊寅",
+      "monthPillar": "戊午",
+      "dayPillar": "丁未",
+      "hourPillar": "己酉",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2001",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 4 Yue) Solar-Term Alignment for 2001",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2001,
+      "month": 5,
+      "day": 23,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛巳",
+      "monthPillar": "癸巳",
+      "dayPillar": "丙戌",
+      "hourPillar": "癸巳",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2001",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2001",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2001,
+      "month": 5,
+      "day": 28,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛巳",
+      "monthPillar": "癸巳",
+      "dayPillar": "辛卯",
+      "hourPillar": "丁酉",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2004",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 2 Yue) Solar-Term Alignment for 2004",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2004,
+      "month": 3,
+      "day": 21,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲申",
+      "monthPillar": "丁卯",
+      "dayPillar": "己亥",
+      "hourPillar": "己巳",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2004",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2004",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2004,
+      "month": 3,
+      "day": 26,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲申",
+      "monthPillar": "丁卯",
+      "dayPillar": "甲辰",
+      "hourPillar": "癸酉",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2006",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 7 Yue) Solar-Term Alignment for 2006",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2006,
+      "month": 8,
+      "day": 24,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙戌",
+      "monthPillar": "丙申",
+      "dayPillar": "乙酉",
+      "hourPillar": "辛巳",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2006",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2006",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2006,
+      "month": 8,
+      "day": 29,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙戌",
+      "monthPillar": "丙申",
+      "dayPillar": "庚寅",
+      "hourPillar": "乙酉",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2009",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 5 Yue) Solar-Term Alignment for 2009",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2009,
+      "month": 6,
+      "day": 23,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己丑",
+      "monthPillar": "庚午",
+      "dayPillar": "己亥",
+      "hourPillar": "己巳",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2009",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2009",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2009,
+      "month": 6,
+      "day": 28,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己丑",
+      "monthPillar": "庚午",
+      "dayPillar": "甲辰",
+      "hourPillar": "癸酉",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2012",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 4 Yue) Solar-Term Alignment for 2012",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2012,
+      "month": 5,
+      "day": 21,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬辰",
+      "monthPillar": "乙巳",
+      "dayPillar": "壬午",
+      "hourPillar": "乙巳",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2012",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2012",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2012,
+      "month": 5,
+      "day": 26,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬辰",
+      "monthPillar": "乙巳",
+      "dayPillar": "丁亥",
+      "hourPillar": "己酉",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2014",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 9 Yue) Solar-Term Alignment for 2014",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2014,
+      "month": 10,
+      "day": 24,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲午",
+      "monthPillar": "甲戌",
+      "dayPillar": "戊辰",
+      "hourPillar": "丁巳",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2014",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2014",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2014,
+      "month": 10,
+      "day": 29,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲午",
+      "monthPillar": "甲戌",
+      "dayPillar": "癸酉",
+      "hourPillar": "辛酉",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2017",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 6 Yue) Solar-Term Alignment for 2017",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2017,
+      "month": 7,
+      "day": 23,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁酉",
+      "monthPillar": "丁未",
+      "dayPillar": "辛亥",
+      "hourPillar": "癸巳",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2017",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2017",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2017,
+      "month": 7,
+      "day": 28,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁酉",
+      "monthPillar": "丁未",
+      "dayPillar": "丙辰",
+      "hourPillar": "丁酉",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2020",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 4 Yue) Solar-Term Alignment for 2020",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2020,
+      "month": 5,
+      "day": 23,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚子",
+      "monthPillar": "辛巳",
+      "dayPillar": "丙寅",
+      "hourPillar": "癸巳",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2020",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2020",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2020,
+      "month": 5,
+      "day": 28,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚子",
+      "monthPillar": "辛巳",
+      "dayPillar": "辛未",
+      "hourPillar": "丁酉",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2023",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 2 Yue) Solar-Term Alignment for 2023",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2023,
+      "month": 3,
+      "day": 22,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸卯",
+      "monthPillar": "乙卯",
+      "dayPillar": "己卯",
+      "hourPillar": "己巳",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2023",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2023",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸卯",
+      "monthPillar": "乙卯",
+      "dayPillar": "甲申",
+      "hourPillar": "癸酉",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2025",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 6 Yue) Solar-Term Alignment for 2025",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2025,
+      "month": 7,
+      "day": 25,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙巳",
+      "monthPillar": "癸未",
+      "dayPillar": "乙未",
+      "hourPillar": "辛巳",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2025",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2025",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2025,
+      "month": 7,
+      "day": 30,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙巳",
+      "monthPillar": "癸未",
+      "dayPillar": "庚子",
+      "hourPillar": "乙酉",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2028",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 5 Yue) Solar-Term Alignment for 2028",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2028,
+      "month": 6,
+      "day": 23,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊申",
+      "monthPillar": "戊午",
+      "dayPillar": "己卯",
+      "hourPillar": "己巳",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2028",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2028",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2028,
+      "month": 6,
+      "day": 28,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊申",
+      "monthPillar": "戊午",
+      "dayPillar": "甲申",
+      "hourPillar": "癸酉",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2031",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 3 Yue) Solar-Term Alignment for 2031",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2031,
+      "month": 4,
+      "day": 22,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛亥",
+      "monthPillar": "壬辰",
+      "dayPillar": "壬辰",
+      "hourPillar": "乙巳",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2031",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2031",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2031,
+      "month": 4,
+      "day": 27,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛亥",
+      "monthPillar": "壬辰",
+      "dayPillar": "丁酉",
+      "hourPillar": "己酉",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2033",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 11 Yue) Solar-Term Alignment for 2033",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2033,
+      "month": 12,
+      "day": 22,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸丑",
+      "monthPillar": "甲子",
+      "dayPillar": "丁未",
+      "hourPillar": "乙巳",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2033",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2033",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2033,
+      "month": 12,
+      "day": 27,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸丑",
+      "monthPillar": "甲子",
+      "dayPillar": "壬子",
+      "hourPillar": "己酉",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "leap-month-2036",
+    "category": "leap-month-transit",
+    "name": "Leap Month (Run 6 Yue) Solar-Term Alignment for 2036",
+    "description": "Verifies that during Lunar leap months, BaZi strictly follows astronomical Jie Qi rather than nominal lunar month numbers.",
+    "input": {
+      "year": 2036,
+      "month": 7,
+      "day": 23,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙辰",
+      "monthPillar": "乙未",
+      "dayPillar": "辛卯",
+      "hourPillar": "癸巳",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Qian Li Ming Gao - Leap Month Solar Terms Precedence"
+  },
+  {
+    "id": "leap-month-mid-2036",
+    "category": "leap-month-transit",
+    "name": "Leap Month Mid-Cycle Point for 2036",
+    "description": "Verifies month pillar stability mid-way through a leap month.",
+    "input": {
+      "year": 2036,
+      "month": 7,
+      "day": 28,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙辰",
+      "monthPillar": "乙未",
+      "dayPillar": "丙申",
+      "hourPillar": "丁酉",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Classical Ephemeris Check"
+  },
+  {
+    "id": "year-2027-month-1",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Ren Yin (Month 1)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 2,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "壬寅",
+      "dayPillar": "庚申",
+      "hourPillar": "壬午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-1-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 1 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 2,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "壬寅",
+      "dayPillar": "庚申",
+      "hourPillar": "庚辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-1-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 1 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 2,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "壬寅",
+      "dayPillar": "庚申",
+      "hourPillar": "丙戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-2",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Gui Mao (Month 2)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 3,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "癸卯",
+      "dayPillar": "戊子",
+      "hourPillar": "戊午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-2-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 2 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 3,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "癸卯",
+      "dayPillar": "戊子",
+      "hourPillar": "丙辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-2-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 2 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 3,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "癸卯",
+      "dayPillar": "戊子",
+      "hourPillar": "壬戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-3",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Jia Chen (Month 3)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 4,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "甲辰",
+      "dayPillar": "己未",
+      "hourPillar": "庚午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-3-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 3 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 4,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "甲辰",
+      "dayPillar": "己未",
+      "hourPillar": "戊辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-3-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 3 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 4,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "甲辰",
+      "dayPillar": "己未",
+      "hourPillar": "甲戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-4",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Yi Si (Month 4)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 5,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "乙巳",
+      "dayPillar": "己丑",
+      "hourPillar": "庚午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-4-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 4 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 5,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "乙巳",
+      "dayPillar": "己丑",
+      "hourPillar": "戊辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-4-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 4 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 5,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "乙巳",
+      "dayPillar": "己丑",
+      "hourPillar": "甲戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-5",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Bing Wu (Month 5)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 6,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "丙午",
+      "dayPillar": "庚申",
+      "hourPillar": "壬午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-5-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 5 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 6,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "丙午",
+      "dayPillar": "庚申",
+      "hourPillar": "庚辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-5-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 5 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 6,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "丙午",
+      "dayPillar": "庚申",
+      "hourPillar": "丙戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-6",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Ding Wei (Month 6)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 7,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "丁未",
+      "dayPillar": "庚寅",
+      "hourPillar": "壬午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-6-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 6 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 7,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "丁未",
+      "dayPillar": "庚寅",
+      "hourPillar": "庚辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-6-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 6 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 7,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "丁未",
+      "dayPillar": "庚寅",
+      "hourPillar": "丙戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-7",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Wu Shen (Month 7)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 8,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "戊申",
+      "dayPillar": "辛酉",
+      "hourPillar": "甲午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-7-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 7 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 8,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "戊申",
+      "dayPillar": "辛酉",
+      "hourPillar": "壬辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-7-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 7 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 8,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "戊申",
+      "dayPillar": "辛酉",
+      "hourPillar": "戊戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-8",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Ji You (Month 8)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 9,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "己酉",
+      "dayPillar": "壬辰",
+      "hourPillar": "丙午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-8-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 8 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 9,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "己酉",
+      "dayPillar": "壬辰",
+      "hourPillar": "甲辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-8-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 8 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 9,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "己酉",
+      "dayPillar": "壬辰",
+      "hourPillar": "庚戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-9",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Geng Xu (Month 9)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 10,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "庚戌",
+      "dayPillar": "壬戌",
+      "hourPillar": "丙午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-9-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 9 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 10,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "庚戌",
+      "dayPillar": "壬戌",
+      "hourPillar": "甲辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-9-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 9 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 10,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "庚戌",
+      "dayPillar": "壬戌",
+      "hourPillar": "庚戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-10",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Xin Hai (Month 10)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 11,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "辛亥",
+      "dayPillar": "癸巳",
+      "hourPillar": "戊午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-10-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 10 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 11,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "辛亥",
+      "dayPillar": "癸巳",
+      "hourPillar": "丙辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-10-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 10 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 11,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "辛亥",
+      "dayPillar": "癸巳",
+      "hourPillar": "壬戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-11",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Ren Zi (Month 11)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2027,
+      "month": 12,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "壬子",
+      "dayPillar": "癸亥",
+      "hourPillar": "戊午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-11-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 11 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 12,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "壬子",
+      "dayPillar": "癸亥",
+      "hourPillar": "丙辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-11-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 11 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2027,
+      "month": 12,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "壬子",
+      "dayPillar": "癸亥",
+      "hourPillar": "壬戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-12",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Flow Year - Gui Chou (Month 12 - Jan 2028)",
+    "description": "Verifies Ding Wei annual stem (丁) and 12 flow-month pillars for 2027.",
+    "input": {
+      "year": 2028,
+      "month": 1,
+      "day": 10,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "癸丑",
+      "dayPillar": "甲午",
+      "hourPillar": "庚午",
+      "ziweiMutations2027": {
+        "huaLuStar": "太阴",
+        "huaQuanStar": "天同",
+        "huaKeStar": "天机",
+        "huaJiStar": "巨门"
+      }
+    },
+    "sourceOrClassicalReference": "Ziwei Dou Shu Quan Shu - Ding Stem Si Hua Standards"
+  },
+  {
+    "id": "year-2027-month-12-morning",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 12 Morning Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2028,
+      "month": 1,
+      "day": 10,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "癸丑",
+      "dayPillar": "甲午",
+      "hourPillar": "戊辰"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "year-2027-month-12-evening",
+    "category": "year-2027-ding-wei",
+    "name": "2027 Ding Wei Month 12 Evening Bracket",
+    "description": "Hour pillar accuracy verification for 2027 flow months.",
+    "input": {
+      "year": 2028,
+      "month": 1,
+      "day": 10,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "癸丑",
+      "dayPillar": "甲午",
+      "hourPillar": "甲戌"
+    },
+    "sourceOrClassicalReference": "FunTestHub 2027 Annual Transit Engine"
+  },
+  {
+    "id": "historical-famous-1",
+    "category": "classical-historical",
+    "name": "Qianlong Emperor (乾隆皇帝) Classical Benchmark Chart",
+    "description": "Verified historical chart of Qianlong Emperor (乾隆皇帝) referenced in classical texts.",
+    "input": {
+      "year": 1711,
+      "month": 9,
+      "day": 25,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛卯",
+      "monthPillar": "丁酉",
+      "dayPillar": "庚午",
+      "hourPillar": "丙子",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Qing Imperial Genealogy & Di Tian Sui Classical Commentary"
+  },
+  {
+    "id": "historical-famous-2",
+    "category": "classical-historical",
+    "name": "Emperor Taizu of Ming (明太祖朱元璋) Classical Benchmark Chart",
+    "description": "Verified historical chart of Emperor Taizu of Ming (明太祖朱元璋) referenced in classical texts.",
+    "input": {
+      "year": 1328,
+      "month": 10,
+      "day": 21,
+      "hour": 11,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊辰",
+      "monthPillar": "壬戌",
+      "dayPillar": "丁丑",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "History of Ming (Ming Shi) & San Ming Tong Hui Vol. 9"
+  },
+  {
+    "id": "historical-famous-3",
+    "category": "classical-historical",
+    "name": "Su Shi / Su Dongpo (苏轼) Classical Benchmark Chart",
+    "description": "Verified historical chart of Su Shi / Su Dongpo (苏轼) referenced in classical texts.",
+    "input": {
+      "year": 1037,
+      "month": 1,
+      "day": 8,
+      "hour": 6,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙子",
+      "monthPillar": "辛丑",
+      "dayPillar": "癸亥",
+      "hourPillar": "乙卯",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Song Biographies & Yuan Hai Zi Ping Famous Charts"
+  },
+  {
+    "id": "historical-famous-4",
+    "category": "classical-historical",
+    "name": "General Yue Fei (岳飞) Classical Benchmark Chart",
+    "description": "Verified historical chart of General Yue Fei (岳飞) referenced in classical texts.",
+    "input": {
+      "year": 1103,
+      "month": 3,
+      "day": 24,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸未",
+      "monthPillar": "乙卯",
+      "dayPillar": "甲子",
+      "hourPillar": "戊辰",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Song Shi Yue Fei Biography & San Ming Tong Hui"
+  },
+  {
+    "id": "historical-famous-5",
+    "category": "classical-historical",
+    "name": "Zeng Guofan (曾国藩) Classical Benchmark Chart",
+    "description": "Verified historical chart of Zeng Guofan (曾国藩) referenced in classical texts.",
+    "input": {
+      "year": 1811,
+      "month": 11,
+      "day": 26,
+      "hour": 0,
+      "minute": 30,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛未",
+      "monthPillar": "己亥",
+      "dayPillar": "丙辰",
+      "hourPillar": "戊子",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Zeng Guofan Chronological Biography & Qian Li Ming Gao"
+  },
+  {
+    "id": "historical-famous-6",
+    "category": "classical-historical",
+    "name": "Li Hongzhang (李鸿章) Classical Benchmark Chart",
+    "description": "Verified historical chart of Li Hongzhang (李鸿章) referenced in classical texts.",
+    "input": {
+      "year": 1823,
+      "month": 2,
+      "day": 15,
+      "hour": 6,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸未",
+      "monthPillar": "甲寅",
+      "dayPillar": "乙亥",
+      "hourPillar": "己卯",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Late Qing Biographies & Classical Bazi Commentaries"
+  },
+  {
+    "id": "historical-famous-7",
+    "category": "classical-historical",
+    "name": "Sun Yat-sen (孙中山) Classical Benchmark Chart",
+    "description": "Verified historical chart of Sun Yat-sen (孙中山) referenced in classical texts.",
+    "input": {
+      "year": 1866,
+      "month": 11,
+      "day": 12,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙寅",
+      "monthPillar": "己亥",
+      "dayPillar": "辛卯",
+      "hourPillar": "壬辰",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Modern Metaphysics Compendium"
+  },
+  {
+    "id": "historical-famous-8",
+    "category": "classical-historical",
+    "name": "Lu Xun (鲁迅) Classical Benchmark Chart",
+    "description": "Verified historical chart of Lu Xun (鲁迅) referenced in classical texts.",
+    "input": {
+      "year": 1881,
+      "month": 9,
+      "day": 25,
+      "hour": 6,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛巳",
+      "monthPillar": "丁酉",
+      "dayPillar": "壬戌",
+      "hourPillar": "癸卯",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Lu Xun Chronological Biography & Cultural Destiny Archives"
+  },
+  {
+    "id": "archetype-systematic-1",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 1 (1962-4-8 2:00)",
+    "description": "Systematic coverage testing Day Master 丙 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1962,
+      "month": 4,
+      "day": 8,
+      "hour": 2,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬寅",
+      "monthPillar": "甲辰",
+      "dayPillar": "丙子",
+      "hourPillar": "己丑",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-2",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 2 (1964-7-15 4:00)",
+    "description": "Systematic coverage testing Day Master 乙 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1964,
+      "month": 7,
+      "day": 15,
+      "hour": 4,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲辰",
+      "monthPillar": "辛未",
+      "dayPillar": "乙丑",
+      "hourPillar": "戊寅",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-3",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 3 (1966-10-22 6:00)",
+    "description": "Systematic coverage testing Day Master 甲 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1966,
+      "month": 10,
+      "day": 22,
+      "hour": 6,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙午",
+      "monthPillar": "戊戌",
+      "dayPillar": "甲寅",
+      "hourPillar": "丁卯",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-4",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 4 (1968-1-1 8:00)",
+    "description": "Systematic coverage testing Day Master 庚 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1968,
+      "month": 1,
+      "day": 1,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁未",
+      "monthPillar": "壬子",
+      "dayPillar": "庚午",
+      "hourPillar": "庚辰",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-5",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 5 (1970-4-8 10:00)",
+    "description": "Systematic coverage testing Day Master 戊 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1970,
+      "month": 4,
+      "day": 8,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚戌",
+      "monthPillar": "庚辰",
+      "dayPillar": "戊午",
+      "hourPillar": "丁巳",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-6",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 6 (1972-7-15 12:00)",
+    "description": "Systematic coverage testing Day Master 丁 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1972,
+      "month": 7,
+      "day": 15,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬子",
+      "monthPillar": "丁未",
+      "dayPillar": "丁未",
+      "hourPillar": "丙午",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-7",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 7 (1974-10-22 14:00)",
+    "description": "Systematic coverage testing Day Master 丙 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1974,
+      "month": 10,
+      "day": 22,
+      "hour": 14,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲寅",
+      "monthPillar": "甲戌",
+      "dayPillar": "丙申",
+      "hourPillar": "乙未",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-8",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 8 (1976-1-1 16:00)",
+    "description": "Systematic coverage testing Day Master 壬 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1976,
+      "month": 1,
+      "day": 1,
+      "hour": 16,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙卯",
+      "monthPillar": "戊子",
+      "dayPillar": "壬子",
+      "hourPillar": "戊申",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-9",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 9 (1978-4-8 18:00)",
+    "description": "Systematic coverage testing Day Master 庚 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1978,
+      "month": 4,
+      "day": 8,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊午",
+      "monthPillar": "丙辰",
+      "dayPillar": "庚子",
+      "hourPillar": "乙酉",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-10",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 10 (1980-7-15 20:00)",
+    "description": "Systematic coverage testing Day Master 己 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1980,
+      "month": 7,
+      "day": 15,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚申",
+      "monthPillar": "癸未",
+      "dayPillar": "己丑",
+      "hourPillar": "甲戌",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-11",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 11 (1982-10-22 22:00)",
+    "description": "Systematic coverage testing Day Master 戊 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1982,
+      "month": 10,
+      "day": 22,
+      "hour": 22,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬戌",
+      "monthPillar": "庚戌",
+      "dayPillar": "戊寅",
+      "hourPillar": "癸亥",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-12",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 12 (1984-1-1 0:00)",
+    "description": "Systematic coverage testing Day Master 甲 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1984,
+      "month": 1,
+      "day": 1,
+      "hour": 0,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸亥",
+      "monthPillar": "甲子",
+      "dayPillar": "甲午",
+      "hourPillar": "甲子",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-13",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 13 (1986-4-8 2:00)",
+    "description": "Systematic coverage testing Day Master 壬 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1986,
+      "month": 4,
+      "day": 8,
+      "hour": 2,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙寅",
+      "monthPillar": "壬辰",
+      "dayPillar": "壬午",
+      "hourPillar": "辛丑",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-14",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 14 (1988-7-15 4:00)",
+    "description": "Systematic coverage testing Day Master 辛 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1988,
+      "month": 7,
+      "day": 15,
+      "hour": 4,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊辰",
+      "monthPillar": "己未",
+      "dayPillar": "辛未",
+      "hourPillar": "庚寅",
+      "dayMaster": "辛"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-15",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 15 (1990-10-22 6:00)",
+    "description": "Systematic coverage testing Day Master 庚 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1990,
+      "month": 10,
+      "day": 22,
+      "hour": 6,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚午",
+      "monthPillar": "丙戌",
+      "dayPillar": "庚申",
+      "hourPillar": "己卯",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-16",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 16 (1992-1-1 8:00)",
+    "description": "Systematic coverage testing Day Master 丙 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1992,
+      "month": 1,
+      "day": 1,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "辛未",
+      "monthPillar": "庚子",
+      "dayPillar": "丙子",
+      "hourPillar": "壬辰",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-17",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 17 (1994-4-8 10:00)",
+    "description": "Systematic coverage testing Day Master 甲 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1994,
+      "month": 4,
+      "day": 8,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲戌",
+      "monthPillar": "戊辰",
+      "dayPillar": "甲子",
+      "hourPillar": "己巳",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-18",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 18 (1996-7-15 12:00)",
+    "description": "Systematic coverage testing Day Master 癸 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1996,
+      "month": 7,
+      "day": 15,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙子",
+      "monthPillar": "乙未",
+      "dayPillar": "癸丑",
+      "hourPillar": "戊午",
+      "dayMaster": "癸"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-19",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 19 (1998-10-22 14:00)",
+    "description": "Systematic coverage testing Day Master 壬 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 1998,
+      "month": 10,
+      "day": 22,
+      "hour": 14,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊寅",
+      "monthPillar": "壬戌",
+      "dayPillar": "壬寅",
+      "hourPillar": "丁未",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-20",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 20 (2000-1-1 16:00)",
+    "description": "Systematic coverage testing Day Master 戊 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2000,
+      "month": 1,
+      "day": 1,
+      "hour": 16,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "己卯",
+      "monthPillar": "丙子",
+      "dayPillar": "戊午",
+      "hourPillar": "庚申",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-21",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 21 (2002-4-8 18:00)",
+    "description": "Systematic coverage testing Day Master 丙 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2002,
+      "month": 4,
+      "day": 8,
+      "hour": 18,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬午",
+      "monthPillar": "甲辰",
+      "dayPillar": "丙午",
+      "hourPillar": "丁酉",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-22",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 22 (2004-7-15 20:00)",
+    "description": "Systematic coverage testing Day Master 乙 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2004,
+      "month": 7,
+      "day": 15,
+      "hour": 20,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲申",
+      "monthPillar": "辛未",
+      "dayPillar": "乙未",
+      "hourPillar": "丙戌",
+      "dayMaster": "乙"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-23",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 23 (2006-10-22 22:00)",
+    "description": "Systematic coverage testing Day Master 甲 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2006,
+      "month": 10,
+      "day": 22,
+      "hour": 22,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丙戌",
+      "monthPillar": "戊戌",
+      "dayPillar": "甲申",
+      "hourPillar": "乙亥",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-24",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 24 (2008-1-1 0:00)",
+    "description": "Systematic coverage testing Day Master 庚 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2008,
+      "month": 1,
+      "day": 1,
+      "hour": 0,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "丁亥",
+      "monthPillar": "壬子",
+      "dayPillar": "庚子",
+      "hourPillar": "丙子",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-25",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 25 (2010-4-8 2:00)",
+    "description": "Systematic coverage testing Day Master 戊 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2010,
+      "month": 4,
+      "day": 8,
+      "hour": 2,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚寅",
+      "monthPillar": "庚辰",
+      "dayPillar": "戊子",
+      "hourPillar": "癸丑",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-26",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 26 (2012-7-15 4:00)",
+    "description": "Systematic coverage testing Day Master 丁 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2012,
+      "month": 7,
+      "day": 15,
+      "hour": 4,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬辰",
+      "monthPillar": "丁未",
+      "dayPillar": "丁丑",
+      "hourPillar": "壬寅",
+      "dayMaster": "丁"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-27",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 27 (2014-10-22 6:00)",
+    "description": "Systematic coverage testing Day Master 丙 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2014,
+      "month": 10,
+      "day": 22,
+      "hour": 6,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "甲午",
+      "monthPillar": "甲戌",
+      "dayPillar": "丙寅",
+      "hourPillar": "辛卯",
+      "dayMaster": "丙"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-28",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 28 (2016-1-1 8:00)",
+    "description": "Systematic coverage testing Day Master 壬 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2016,
+      "month": 1,
+      "day": 1,
+      "hour": 8,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "乙未",
+      "monthPillar": "戊子",
+      "dayPillar": "壬午",
+      "hourPillar": "甲辰",
+      "dayMaster": "壬"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-29",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 29 (2018-4-8 10:00)",
+    "description": "Systematic coverage testing Day Master 庚 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2018,
+      "month": 4,
+      "day": 8,
+      "hour": 10,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "戊戌",
+      "monthPillar": "丙辰",
+      "dayPillar": "庚午",
+      "hourPillar": "辛巳",
+      "dayMaster": "庚"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-30",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 30 (2020-7-15 12:00)",
+    "description": "Systematic coverage testing Day Master 己 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2020,
+      "month": 7,
+      "day": 15,
+      "hour": 12,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "庚子",
+      "monthPillar": "癸未",
+      "dayPillar": "己未",
+      "hourPillar": "庚午",
+      "dayMaster": "己"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-31",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 31 (2022-10-22 14:00)",
+    "description": "Systematic coverage testing Day Master 戊 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2022,
+      "month": 10,
+      "day": 22,
+      "hour": 14,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "壬寅",
+      "monthPillar": "庚戌",
+      "dayPillar": "戊申",
+      "hourPillar": "己未",
+      "dayMaster": "戊"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  },
+  {
+    "id": "archetype-systematic-32",
+    "category": "classical-historical",
+    "name": "Systematic Elemental Archetype 32 (2024-1-1 16:00)",
+    "description": "Systematic coverage testing Day Master 甲 interaction across Ten Gods configurations.",
+    "input": {
+      "year": 2024,
+      "month": 1,
+      "day": 1,
+      "hour": 16,
+      "minute": 0,
+      "sect": 2
+    },
+    "expected": {
+      "yearPillar": "癸卯",
+      "monthPillar": "甲子",
+      "dayPillar": "甲子",
+      "hourPillar": "壬申",
+      "dayMaster": "甲"
+    },
+    "sourceOrClassicalReference": "Systematic Ephemeris Cross-Verification Set"
+  }
+]
